@@ -1,6 +1,5 @@
-package dev.tidalforge.sonarcharge.ui.theme
+package dev.tidalforge.sonarcharge.presentation.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

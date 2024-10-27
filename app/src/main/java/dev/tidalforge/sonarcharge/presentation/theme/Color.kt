@@ -1,4 +1,4 @@
-package dev.tidalforge.sonarcharge.ui.theme
+package dev.tidalforge.sonarcharge.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
